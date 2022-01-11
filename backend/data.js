@@ -30,7 +30,7 @@ const data = {
       category: "Shirts",
       image: "/images/p3.jpg",
       price: 220,
-      countInStock: 42,
+      countInStock: 0,
       brand: "Aqui",
       rating: 4.8,
       numReviews: 17,
