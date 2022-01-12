@@ -101,7 +101,7 @@ a.brand {
   font-weight: bold;
 }
 .badge {
-  background-color:  #f02020;
+  background-color: #f02020;
   color: #ffffff;
   border-radius: 50%;
   padding: 0.2rem 0.7rem;
@@ -133,7 +133,7 @@ a.brand {
 img {
   border-radius: 0.5rem;
 }
-img.small{
+img.small {
   max-width: 5rem;
   width: 100%;
 }
@@ -188,4 +188,19 @@ img.large {
 .alert-danger {
   color: #a02020;
   background-color: #ffe0e0e0;
+}
+
+/* form */
+.form {
+  max-width: 60rem;
+  margin: 0 auto;
+}
+.form > div {
+  display: flex;
+  flex-direction: column;
+  margin: 1rem;
+}
+.form label {
+  margin: 1rem 0;
+  display: block;
 }
