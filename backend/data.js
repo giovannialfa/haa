@@ -17,7 +17,6 @@ const data = {
   ],
   products: [
     {
-      _id: "1",
       name: "Naiki Slim Shirt",
       category: "Shirts",
       image: "/images/p1.jpg",
@@ -29,7 +28,6 @@ const data = {
       description: "high quality product",
     },
     {
-      _id: "2",
       name: "Adimas Fit Shirt",
       category: "Shirts",
       image: "/images/p2.jpg",
@@ -41,7 +39,6 @@ const data = {
       description: "high quality product",
     },
     {
-      _id: "3",
       name: "Aqui Free Shirt",
       category: "Shirts",
       image: "/images/p3.jpg",
@@ -53,7 +50,6 @@ const data = {
       description: "high quality product",
     },
     {
-      _id: "4",
       name: "Naiki Slim Pant",
       category: "Pants",
       image: "/images/p4.jpg",
@@ -65,7 +61,6 @@ const data = {
       description: "high quality product",
     },
     {
-      _id: "5",
       name: "Pumo Slim Pant",
       category: "Pants",
       image: "/images/p5.jpg",
@@ -77,7 +72,6 @@ const data = {
       description: "high quality product",
     },
     {
-      _id: "6",
       name: "Adimas Fit Pant",
       category: "Pants",
       image: "/images/p6.jpg",
